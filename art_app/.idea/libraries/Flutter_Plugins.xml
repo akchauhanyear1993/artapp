@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../sdk_flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts_improved-1.0.3" />
+      <root url="file://$PROJECT_DIR$/../../../sdk_flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_admob-0.1.1+2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

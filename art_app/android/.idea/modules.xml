@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/37114359/android.flutter_native_admob.iml" filepath="$PROJECT_DIR$/.idea/modules/37114359/android.flutter_native_admob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2082659061/android.flutter_tts_improved.iml" filepath="$PROJECT_DIR$/.idea/modules/2082659061/android.flutter_tts_improved.iml" />
+    </modules>
+  </component>
+</project>
